@@ -1,0 +1,36 @@
+patient_id, medication, reason_for_taking_medication
+XYZ1,Amitriptyline,seizure
+XYZ1,Warfarin (coumadin),blood thinner
+XYZ1,Cymbalta (duloxetine),depression
+XYZ1,Synthroid (levothyroxine),hyperthyroidism
+XYZ2,Fentanyl,back pain
+XYZ2,Nexium (esomeprazole),acid reflux
+XYZ2,Vesicare,urinary urgency
+XYZ2,Chantix,to quit smoking
+XYZ2,Aleve,headaches
+XYZ2,Amlodipine Besylate,hypertension
+XYZ2,Bisoprolol-HCTZ,blood pressure
+XYZ2,Indapamide,blood pressure
+XYZ3,Levothyroxin,very low energy
+XYZ3,Levothyroxin,thyroid supplement
+XYZ3,Lisinopril/HCTZ,htn
+XYZ4,Diazepam,anxiety
+XYZ4,Diazepam,anxiety
+XYZ4,Alprazolam,anxiety
+XYZ4,Hydroxychloroquine,rheumatoid
+XYZ5,Erythromycines,dental surgery
+XYZ5,Esomeprazole,gerd
+XYZ5,Metformin HCL,diabetes
+XYZ5,Levothyroxine,hypothyroidism
+XYZ5,Atenolol,elevated blood pressure
+XYZ6,Nortriptyline HCL,leg pain
+XYZ6,Prilosec OTC,acid reflux
+XYZ6,Lortab (acetaminophen/hydrocodone),pain
+XYZ6,Tylenol PM,sleep aid
+XYZ7,Alprazolam (Xanax),insomnia
+XYZ7,HCTZ,fluid pill
+XYZ7,Nyquil,cold symptoms
+XYZ8,Valium (diazepam),depression
+XYZ8,Valium (diazepam),depression
+XYZ9,Bupropion HCL XL,depression
+XYZ9,Bupropion HCL XL,depression
