@@ -1,0 +1,103 @@
+{
+  "lexapro (citalopram)": [
+    "antidepressants"
+  ], 
+  "alprazolam": [
+    "anxiolytics, sedatives, and hypnotics"
+  ], 
+  "bupropion hcl xl": [
+    "mitotic inhibitors"
+  ], 
+  "valium (diazepam)": [
+    "anticonvulsants", 
+    "anxiolytics, sedatives, and hypnotics"
+  ], 
+  "lortab (acetaminophen/hydrocodone)": [
+    "analgesics"
+  ], 
+  "erythromycines": [
+    "dermatological agents", 
+    "ophthalmic preparations", 
+    "macrolide derivatives"
+  ], 
+  "bisoprolol-hctz": [
+    "antihypertensive combinations"
+  ], 
+  "diazepam": [
+    "anticonvulsants", 
+    "anxiolytics, sedatives, and hypnotics"
+  ], 
+  "amitriptyline": [
+    "antidepressants"
+  ], 
+  "levothyroxin": [
+    "thyroid drugs"
+  ], 
+  "lisinopril/hctz": [
+    "antihypertensive combinations"
+  ], 
+  "fentanyl": [
+    "analgesics"
+  ], 
+  "nortriptyline hcl": [
+    "antidepressants"
+  ], 
+  "indapamide": [
+    "diuretics"
+  ], 
+  "tylenol pm": [
+    "analgesics"
+  ], 
+  "esomeprazole": [
+    "proton pump inhibitors"
+  ], 
+  "atenolol": [
+    "beta-adrenergic blocking agents"
+  ], 
+  "levothyroxine": [
+    "thyroid drugs"
+  ], 
+  "chantix": [
+    "smoking cessation agents"
+  ], 
+  "nexium (esomeprazole)": [
+    "proton pump inhibitors"
+  ], 
+  "cymbalta (duloxetine)": [
+    "antidepressants"
+  ], 
+  "nyquil": [
+    "upper respiratory combinations"
+  ], 
+  "amlodipine besylate": [
+    "calcium channel blocking agents"
+  ], 
+  "alprazolam (xanax)": [
+    "anxiolytics, sedatives, and hypnotics"
+  ], 
+  "hctz": [
+    "diuretics"
+  ], 
+  "prilosec otc": [
+    "proton pump inhibitors"
+  ], 
+  "hydroxychloroquine": [
+    "antirheumatics", 
+    "antimalarial agents"
+  ], 
+  "vesicare": [
+    "urinary antispasmodics"
+  ], 
+  "warfarin (coumadin)": [
+    "anticoagulants"
+  ], 
+  "metformin hcl": [
+    "antidiabetic agents"
+  ], 
+  "synthroid (levothyroxine)": [
+    "thyroid drugs"
+  ], 
+  "aleve": [
+    "analgesics"
+  ]
+}
