@@ -40,7 +40,7 @@ python extract-med-count.py raw_data.csv 1 extract_med_count_OUTPUT.json
 
 ### Step 2
 ```
-python create-med-dict-file.py extract_med_count_OUTPUT.csv create_med_dict_file_OUTPUT.json
+python create-med-dict-file.py extract_med_count_OUTPUT.json create_med_dict_file_OUTPUT.json
 ```
 
 ### Step 3
