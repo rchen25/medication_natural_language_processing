@@ -35,7 +35,7 @@ We describe below a tutorial for executing the medication extraction code using 
 
 ```
 cd data-preprocess
-python extract-med-count.py ../preprocess_data_example/raw_data.csv 1  ./extract_med_count_OUTPUT.json
+python extract-med-count.py raw_data.csv 1 extract_med_count_OUTPUT.json
 ```
 
 ### Step 2
