@@ -1,0 +1,42 @@
+XYZ1,seizure,seizure,antidepressants
+XYZ1,blood thinner,blood thinner,unknown
+XYZ1,depression,depress,unknown
+XYZ1,hyperthyroidism,immun,thyroid drugs
+XYZ2,back pain,pain,analgesics
+XYZ2,acid reflux,digest,proton pump inhibitors
+XYZ2,urinary urgency,blad,urinary antispasmodics
+XYZ2,to quit smoking,to quit smoking,smoking cessation agents
+XYZ2,headaches,headach,analgesics
+XYZ2,hypertension,hypertension,calcium channel blocking agents
+XYZ2,blood pressure,blood press,antihypertensive combinations
+XYZ2,blood pressure,blood press,diuretics
+XYZ3,very low energy,fatigu,thyroid drugs
+XYZ3,thyroid supplement,immun,thyroid drugs
+XYZ3,htn,htn,antihypertensive combinations
+XYZ4,anxiety,anxiety,anticonvulsants
+XYZ4,anxiety,anxiety,"anxiolytics, sedatives, and hypnotics"
+XYZ4,anxiety,anxiety,anticonvulsants
+XYZ4,anxiety,anxiety,"anxiolytics, sedatives, and hypnotics"
+XYZ4,anxiety,anxiety,"anxiolytics, sedatives, and hypnotics"
+XYZ4,rheumatoid,rheumatoid,antirheumatics
+XYZ4,rheumatoid,rheumatoid,antimalarial agents
+XYZ5,dental surgery,dental surgery,dermatological agents
+XYZ5,dental surgery,dental surgery,ophthalmic preparations
+XYZ5,dental surgery,dental surgery,macrolide derivatives
+XYZ5,gerd,digest,proton pump inhibitors
+XYZ5,diabetes,diabet,antidiabetic agents
+XYZ5,hypothyroidism,immun,thyroid drugs
+XYZ5,elevated blood pressure,blood press,beta-adrenergic blocking agents
+XYZ6,leg pain,pain,antidepressants
+XYZ6,acid reflux,digest,proton pump inhibitors
+XYZ6,pain,pain,unknown
+XYZ6,sleep aid,sleep,analgesics
+XYZ7,insomnia,insomnia,"anxiolytics, sedatives, and hypnotics"
+XYZ7,fluid pill,fluid pill,diuretics
+XYZ7,cold symptoms,cold symptoms,upper respiratory combinations
+XYZ8,depression,depress,anticonvulsants
+XYZ8,depression,depress,"anxiolytics, sedatives, and hypnotics"
+XYZ8,depression,depress,anticonvulsants
+XYZ8,depression,depress,"anxiolytics, sedatives, and hypnotics"
+XYZ9,depression,depress,mitotic inhibitors
+XYZ9,depression,depress,mitotic inhibitors
