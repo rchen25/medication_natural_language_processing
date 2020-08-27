@@ -50,7 +50,7 @@ python preprocessMedFile.py
 
 ### Step 4
 ```
-python buildSymptomDict_and_mapReasons.py med_processed_with_categories.csv df_all_patient_matched_reason_med.csv df_unmatched_reason_count.csv df_unmatched_reason_grouped_count_unique.csv
+python buildSymptomDict_and_mapReasons.py med_processed_with_categories.csv df_all_patient_matched_reason_med.csv df_matched_reason_count.csv df_unmatched_reason_count.csv
 ```
 
 
